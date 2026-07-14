@@ -20,6 +20,7 @@ DSA questions from leetcode being added here as I solve it on the leetcode.
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/ashok-dahal-codes/DSA_Practice/tree/main/0189-rotate-array/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ashok-dahal-codes/DSA_Practice/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2239-find-closest-number-to-zero](https://github.com/ashok-dahal-codes/DSA_Practice/tree/main/2239-find-closest-number-to-zero/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
