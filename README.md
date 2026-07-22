@@ -22,6 +22,7 @@ DSA questions from leetcode being added here as I solve it on the leetcode.
 | [0001-two-sum](https://github.com/ashok-dahal-codes/DSA_Practice/tree/main/0001-two-sum/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashok-dahal-codes/DSA_Practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0189-rotate-array](https://github.com/ashok-dahal-codes/DSA_Practice/tree/main/0189-rotate-array/) | Medium |
+| [0217-contains-duplicate](https://github.com/ashok-dahal-codes/DSA_Practice/tree/main/0217-contains-duplicate/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ashok-dahal-codes/DSA_Practice/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2239-find-closest-number-to-zero](https://github.com/ashok-dahal-codes/DSA_Practice/tree/main/2239-find-closest-number-to-zero/) | Easy |
 ## Math
@@ -41,4 +42,9 @@ DSA questions from leetcode being added here as I solve it on the leetcode.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ashok-dahal-codes/DSA_Practice/tree/main/0001-two-sum/) | Easy |
+| [0217-contains-duplicate](https://github.com/ashok-dahal-codes/DSA_Practice/tree/main/0217-contains-duplicate/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0217-contains-duplicate](https://github.com/ashok-dahal-codes/DSA_Practice/tree/main/0217-contains-duplicate/) | Easy |
 <!---LeetCode Topics End-->
