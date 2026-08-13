@@ -23,6 +23,7 @@ DSA questions from leetcode being added here as I solve it on the leetcode.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashok-dahal-codes/DSA_Practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0189-rotate-array](https://github.com/ashok-dahal-codes/DSA_Practice/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/ashok-dahal-codes/DSA_Practice/tree/main/0217-contains-duplicate/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/ashok-dahal-codes/DSA_Practice/tree/main/0238-product-of-array-except-self/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ashok-dahal-codes/DSA_Practice/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2239-find-closest-number-to-zero](https://github.com/ashok-dahal-codes/DSA_Practice/tree/main/2239-find-closest-number-to-zero/) | Easy |
 ## Math
@@ -47,4 +48,8 @@ DSA questions from leetcode being added here as I solve it on the leetcode.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/ashok-dahal-codes/DSA_Practice/tree/main/0217-contains-duplicate/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/ashok-dahal-codes/DSA_Practice/tree/main/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->
